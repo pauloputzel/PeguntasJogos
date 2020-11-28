@@ -8,7 +8,7 @@
 
 - O Brasil é um dos países com maior mercado de jogos do mundo, tendo movimentado mais de US$120 milhões em 2020. Mesmo com um grande publico, não temos jogos nacionais em destaque e nem grandes empresas nacionais. Quais são as barreiras que encontramos e o que precisa ser feito pra mudar isso?
 
-![brasil](https://timeline.canaltech.com.br/296724.700/mercado-de-games-vem-crescendo-em-todo-o-brasil-revela-pesquisa-116972.jpg)
+![brasil](https://timeline.canaltech.com.br/296724.700/mercado-de-games-vem-crescendo-em-todo-o-brasil-revela-pesquisa-116972.jpg)![grafico](https://s2.glbimg.com/AoZ_2lLQ8L-E7I0cbY8dDKAs1dw=/e.glbimg.com/og/ed/f/original/2020/08/03/numerossetorgames.sebrae-sp.jpg)
 
 - Qual foi o jogo, console, ou momento da vida que você teve certeza de que queria trabalhar com jogos? Alguma vez se arrependeu ou teve incertezas?
 
