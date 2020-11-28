@@ -4,6 +4,7 @@
 
 |  |  |
 |--|--|
+|--|--|
 |  |  |
 
 - O Brasil é um dos países com maior mercado de jogos do mundo, tendo movimentado mais de US$120 milhões em 2020. Mesmo com um grande publico, não temos jogos nacionais em destaque e nem grandes empresas nacionais. Quais são as barreiras que encontramos e o que precisa ser feito pra mudar isso?
