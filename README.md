@@ -4,7 +4,7 @@
 
 | Dark Souls | Mario | Megamen  |
 |--|--|--|
-|![darksouls](https://i.pinimg.com/originals/94/6e/06/946e065ebf6c68dbc30f7a162a04351d.gif = 250x250)|![mario](https://i.pinimg.com/originals/d1/19/fa/d119faa9adcecedf44cc801ac75a9b41.gif = 250x250)|![Megamen](https://i.pinimg.com/originals/aa/19/06/aa19066c23542dd8cee1d4d0e0fd1aac.gif = 250x250)|
+|![darksouls](https://i.pinimg.com/originals/94/6e/06/946e065ebf6c68dbc30f7a162a04351d.gif {width=40px height=400px})|![mario](https://i.pinimg.com/originals/d1/19/fa/d119faa9adcecedf44cc801ac75a9b41.gif = 250x250)|![Megamen](https://i.pinimg.com/originals/aa/19/06/aa19066c23542dd8cee1d4d0e0fd1aac.gif = 250x250)|
 
 - O Brasil é um dos países com maior mercado de jogos do mundo, tendo movimentado mais de US$120 milhões em 2020. Mesmo com um grande publico, não temos jogos nacionais em destaque e nem grandes empresas nacionais. Quais são as barreiras que encontramos e o que precisa ser feito pra mudar isso?
 
